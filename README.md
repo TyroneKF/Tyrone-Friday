@@ -26,6 +26,7 @@ class About extends Me {
 </details>
 
 [//]: <> (################################################################################)
+
 <p align="left">  
 
 <!---
@@ -51,23 +52,15 @@ textfill = textColour
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Go&animation=spin&desc=GoLang&svgfill=39cdeb">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&animation=spin&svgfill=659b60">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=Java&animation=spin&svgfill=f4f4f4&fill=black">
-  
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&animation=spin&svgfill=659b60&fill=black">
+
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=R&animation=spin&svgfill=659b60&fill=black">
+
   [//]: <> (################################################################################)
   
-
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&animation=spin&svgfill=659b60&fill=black">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=C#&animation=spin&svgfill=659b60&fill=black">
   
+  [//]: <> (################################################################################)
   <hr>
- 
- [//]: <> (################################################################################)
-  
 
-
-[//]: <> (################################################################################)
-
-[//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQL&svgfill=659b60">)
-[//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS&svgfill=659b60">)
-[//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c++&svgfill=659b60">)
-[//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C#&svgfill=659b60">)
- 
 </p>

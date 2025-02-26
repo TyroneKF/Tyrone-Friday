@@ -25,48 +25,54 @@ class About extends Me {
 
 </details>
 
-
+[//]: <> (################################################################################)
 <p align="left">  
 
+<!---
+https://github.com/harish-sethuraman/readme-components/blob/master/docs/logoComponent.md
+svgfill = logoColour
+fill=backgroundColour
+textfill = textColour
+&animation=spin
+-->
+
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=Firebase&animation=spin&svgfill=ffc0cd&fill=000000">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin&svgfill=1a7909&fill=000000">  
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin&fill=black">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin">
-  <hr>
-
- 
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=Java&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=Javascript&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin">    
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin">
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin"> 
-
-[//]: <> (################################################################################)
   
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=8ed5fa">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Firebase&svgfill=659b60">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629&animation=spin">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&animation=spin">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1&animation=spin">
+
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Haskell&animation=spin&svgfill=412bde">
+  
+  [//]: <> (################################################################################)
+  
+  <hr>
+  
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=Java&text=true&animation=spin">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=Java&animation=spin&svgfill=8ed5fa&fill=black">
+  <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&animation=spin&svgfill=659b60&fill=black">
+  
+   
+
+
+
+  <hr>
+ 
+ [//]: <> (################################################################################)
+  
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&svgfill=659b60">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Go&svgfill=659b60">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Erlang&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Haskell&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=659b60">
 
 [//]: <> (################################################################################)
 
 [//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQL&svgfill=659b60">)
-[//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML&svgfill=659b60">)
 [//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS&svgfill=659b60">)
 [//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c++&svgfill=659b60">)
 [//]: <> (<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C#&svgfill=659b60">)

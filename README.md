@@ -73,7 +73,14 @@ class About extends Me {
 
 [//]: <> (################################################################################)
 <hr></hr>
-<img src="https://readme-components.vercel.app/api?component=experience&company=kentunion">
+
+<img src="https://readme-components.vercel.app/api?component=experience&company=kentunion&role=Bartender">
+
+<img src="https://readme-components.vercel.app/api?component=experience&company=kentunion&role=Bartender&duration=2&location=canterbury">
+
+<img src="https://readme-components.vercel.app/api?component=experience&company=kentunion&role=software%20Developer%20Intern&duration=27&location=canterbury">
+
+
 <img src="https://readme-components.vercel.app/api?component=experience&company=Hybytes">
 
 [//]: <> (################################################################################)

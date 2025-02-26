@@ -2,10 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/4ec5e5df-b472-44e9-855a-55a2705e402b?raw=true"  alt="drawing" width="100%" height="20%" /> 
 
-
-
-
-
 [//]: <> (################################################################################)
 
 <details>
@@ -65,11 +61,24 @@ class About extends Me {
 
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=R&animation=spin&svgfill=659b60&fill=black">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&desc=ReactNative&animation=spin&svgfill=15d8fe"> 
+
 </a>
 </details>
-
-
 </p>
+
+[//]: <> (################################################################################)
+<hr></hr>
+
+<details>
+  <summary><b> Projects </b></summary>
+</details>
+
+[//]: <> (################################################################################)
+<hr></hr>
+
+<details>
+  <summary><b> Work Experience</b></summary>
+</details>
 
 [//]: <> (################################################################################)
 <hr></hr>

@@ -1,8 +1,9 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" /> 
+<img src="https://github.com/user-attachments/assets/4ec5e5df-b472-44e9-855a-55a2705e402b?raw=true"  alt="drawing" width="100%" height="20%" /> 
 
-<a href="https://github.com/rudrabarad/Gifs"> ![coder2](https://github.com/user-attachments/assets/90b14908-2fea-4cea-8567-4f2e6a8cfed1) </a>
+
+
 
 
 [//]: <> (################################################################################)
@@ -78,4 +79,6 @@ class About extends Me {
 [//]: <> (################################################################################)
 
 </div>
+
+<a href="https://github.com/rudrabarad/Gifs"> ![coder2](https://github.com/user-attachments/assets/90b14908-2fea-4cea-8567-4f2e6a8cfed1) </a>
 

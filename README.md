@@ -57,10 +57,10 @@ textfill = textColour
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=R&animation=spin&svgfill=659b60&fill=black">
 
   [//]: <> (################################################################################)
-  
+  <hr>
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=C#&animation=spin&svgfill=659b60&fill=black">
   
   [//]: <> (################################################################################)
-  <hr>
+
 
 </p>

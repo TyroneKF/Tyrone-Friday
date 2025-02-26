@@ -1,7 +1,19 @@
-# Tyrone-Friday
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
+
+![coder2](https://github.com/user-attachments/assets/90b14908-2fea-4cea-8567-4f2e6a8cfed1)
+
+
+[//]: <> (################################################################################)
 
 <details>
   <summary><b> About Me </b></summary>
+
+<div align="left" width="50">
+  
+```dart
+// tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
@@ -13,32 +25,28 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-
+```
+</div>
 </details>
-
-
-<details>
-  <summary><b>Skills</b></summary>
-
-
-
-
-</details>
+<hr></hr>
 
 [//]: <> (################################################################################)
 
-<p align="left">  
+<details>
+  <summary><b>Skills</b></summary>
+  
+   <p align="centre">  
 
-<!---
-https://github.com/harish-sethuraman/readme-components/blob/master/docs/logoComponent.md
-Colours are in text or, HEX
-svgfill = logoColour
-fill=backgroundColour
-textfill = textColour
-&animation=spin
--->
+   <!---
+   https://github.com/harish-sethuraman/readme-components/blob/master/docs/logoComponent.md
+   Colours are in text or, HEX
+   svgfill = logoColour
+   fill=backgroundColour
+   textfill = textColour
+   &animation=spin
+   -->
 
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">   
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=Firebase&animation=spin&svgfill=ffc0cd&fill=000000">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin&svgfill=1a7909&fill=000000">  
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true&animation=spin&fill=black">
@@ -55,12 +63,19 @@ textfill = textColour
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&animation=spin&svgfill=659b60&fill=black">
 
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=R&animation=spin&svgfill=659b60&fill=black">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&desc=ReactNative&animation=spin&svgfill=15d8fe"> 
 
-  [//]: <> (################################################################################)
-  <hr>
-  <img  src="https://readme-components.vercel.app/api?component=logo&logo=C#&animation=spin&svgfill=659b60&fill=black">
-  
-  [//]: <> (################################################################################)
+</details>
 
 
 </p>
+
+[//]: <> (################################################################################)
+<hr></hr>
+<img src="https://readme-components.vercel.app/api?component=experience&company=kentunion">
+<img src="https://readme-components.vercel.app/api?component=experience&company=Hybytes">
+
+[//]: <> (################################################################################)
+
+</div>
+

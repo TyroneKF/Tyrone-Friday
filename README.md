@@ -64,6 +64,10 @@ class About extends Me {
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=R&animation=spin&svgfill=659b60&fill=black">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&desc=ReactNative&animation=spin&svgfill=15d8fe"> 
 
+<p>
+Due to some incompatibilities some programming languages couldnt be repressented in the format above, so here's a verbal description of some of my other programming language skills being; SQL, C, C++, Jack, JAVA and Hack assembly language, HDL (hardware description language).
+</p>
+
 </a>
 </details>
 </p>
@@ -73,6 +77,10 @@ class About extends Me {
 
 <details>
   <summary><b> Projects </b></summary>
+
+
+https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md
+  
 </details>
 
 [//]: <> (################################################################################)

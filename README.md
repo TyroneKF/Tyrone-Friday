@@ -5,7 +5,7 @@
 [//]: <> (<img src="https://github.com/user-attachments/assets/4ec5e5df-b472-44e9-855a-55a2705e402b?raw=true"  alt="drawing" width="100%" height="20%" /> )
 
 [//]: <> (################################################################################)
-
+<hr></hr>
 <details>
   <summary><b> About Me </b></summary>
 

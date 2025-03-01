@@ -6,30 +6,6 @@
 
 [//]: <> (################################################################################)
 <hr></hr>
-<details>
-  <summary><b> About Me </b></summary>
-
-<div align="left" width="50">
-  
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-</div>
-</details>
-<hr></hr>
-
-[//]: <> (################################################################################)
 
 <details>
   <summary><b>Skills</b></summary>
@@ -71,6 +47,31 @@ Due to some incompatibilities some programming languages couldnt be repressented
 </a>
 </details>
 </p>
+
+[//]: <> (################################################################################)
+<hr></hr>
+
+<details>
+  <summary><b> About Me </b></summary>
+
+<div align="left" width="50">
+  
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+</div>
+</details>
 
 [//]: <> (################################################################################)
 <hr></hr>

@@ -61,10 +61,11 @@ Due to some incompatibilities some programming languages couldnt be repressented
 
 class About extends Me { 
   const myTools = {  
-    "Hobbies" : { "Sports", "Gym", "Anime", "American Football", "Coding", "Baksetball", "Drawing"},
-    "Favorite Artists" : { "Chris Brown", "Drake", "Tory Lanez"}
+    "Hobbies" : { "Sports", "Gym", "Anime", "American Football", "Coding", "Baksetball", "Drawing", "Gaming"},
+    "Favorite  Music Genres" : {"Chill Lofi", "Instructmentals", "Hip-Hop", "Jazz", "Pop", "House & EDM", "R&B"}
     "Favorite Films" : { "Fantasy Island 2020", "Shutter Island",  "What happened to Monday?", "I Robot", "13 Hours" }
     "Favorite TV Shows" : { "Simpsons", "Secret & Lies", "Seal Team", "BattleShip", "Legends", "Shooter", "Blindspot", "Blacklist"}
+    "Favorite  Console Games" : {"MDK2 (PS2)", "Tom Clancy Splinter Cell", "Jack Series (PS2)", "Metal Gear Solid V: The Phantom Pain", "Ghost Recon: Wildlands", " }
     
   };
 }

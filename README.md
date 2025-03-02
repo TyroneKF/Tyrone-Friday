@@ -55,12 +55,32 @@ Due to some incompatibilities some programming languages couldnt be repressented
   <summary><b> About Me </b></summary>
 
 <div align="left" width="50">
-  
+
+```dart
+// Random Interests About Me
+
+class About extends Me { 
+  const myTools = {  
+    "Hobbies" : { "Sports", "Gym", "Anime", "American Football", "Coding", "Baksetball", "Drawing"},
+    "Favorite Artists" : { "Chris Brown", "Drake", "Tory Lanez"}
+    "Favorite Films" : { "Fantasy Island 2020", "Shutter Island",  "What happened to Monday?", "I Robot", "13 Hours" }
+    "Favorite TV Shows" : { "Simpsons", "Secret & Lies", "Seal Team", "BattleShip", "Legends", "Shooter", "Blindspot", "Blacklist"}
+    
+  };
+}
+```
+
+
+
+
+
+<!---
 ```dart
 // tools_I_use organized
 
 class About extends Me { 
-  const myTools = {  
+
+ const myTools = {  
     "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
@@ -70,6 +90,9 @@ class About extends Me {
   };
 }
 ```
+-->
+
+
 </div>
 </details>
 

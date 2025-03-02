@@ -112,10 +112,8 @@ https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md
 
 
 <a href="https://github.com/nikodemzareba/StudentPeak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikodemzareba&repo=StudentPeak&theme=buefy" />
 </a>
-
-
 
 [//]: <> (################################################################################)
 [//]: <> (Replace with LinkedIn)

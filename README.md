@@ -90,16 +90,27 @@ https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md
 <hr></hr>
 
 <details>
-  <summary><b> Work Experience</b></summary>
-
-  <img src="https://readme-components.vercel.app/api?component=experience&company=kentunion&role=Bartender">
-
-  <img src="https://readme-components.vercel.app/api?component=experience&company=kentunion&role=Bartender&duration=2&location=canterbury">
-
-  <img src="https://readme-components.vercel.app/api?component=experience&company=kentunion&role=software%20Developer%20Intern&duration=27&location=canterbury">
-
-  <img src="https://readme-components.vercel.app/api?component=experience&company=Hybytes">
   
+  <summary><b> Work Experience</b></summary>
+  <br>
+
+ <a href="https://github.com/harish-sethuraman/readme-components/blob/master/docs/experienceComponent.md">
+  <div align="center">
+    <img src="https://readme-components.vercel.app/api?component=experience&company=FOS.net">  
+    <img src="https://readme-components.vercel.app/api?component=experience&company=CityandIslingtonCollege">
+    <img src="https://readme-components.vercel.app/api?component=experience&company=ASDA">
+    <img src="https://readme-components.vercel.app/api?component=experience&company=KentUnion">
+    <img src="https://readme-components.vercel.app/api?component=experience&company=HerneBayHighSchool">
+    <img src="https://readme-components.vercel.app/api?component=experience&company=Hybytes">
+  </div>
+ </a>
+
+<p align="left">
+Detail-oriented and adaptable, I bring a unique blend of technical and interpersonal skills. With expertise in software development—Java, Python, React, and database management—I excel at problem-solving, debugging, and optimizing software solutions. My experience as a teacher and bartender has honed my communication, leadership, and adaptability, enabling me to thrive in team-oriented and client-facing roles. Strong time management, quick thinking, and collaboration skills allow me to efficiently develop solutions and engage effectively with diverse audiences.
+
+For more info, click the LinkedIn logo at the bottom right of the screen.
+</p>
+
 </details>
 
 [//]: <> (################################################################################)

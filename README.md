@@ -60,12 +60,12 @@ Due to some incompatibilities some programming languages couldnt be repressented
 // Random Interests About Me
 
 class About extends Me { 
-  const myTools = {  
+  const myInterests = {  
     "Hobbies" : { "Sports", "Gym", "Anime", "American Football", "Coding", "Baksetball", "Drawing", "Gaming"},
     "Favorite  Music Genres" : {"Chill Lofi", "Instructmentals", "Hip-Hop", "Jazz", "Pop", "House & EDM", "R&B"}
-    "Favorite Films" : { "Fantasy Island 2020", "Shutter Island",  "What happened to Monday?", "I Robot", "13 Hours" }
+    "Favorite Films" : { "Fantasy Island 2020", "Shutter Island",  "What happened to Monday?", "I Robot", "13 Hours"}
     "Favorite TV Shows" : { "Simpsons", "Secret & Lies", "Seal Team", "BattleShip", "Legends", "Shooter", "Blindspot", "Blacklist"}
-    "Favorite  Console Games" : {"MDK2 (PS2)", "Tom Clancy Splinter Cell", "Jack Series (PS2)", "Metal Gear Solid V: The Phantom Pain", "Ghost Recon: Wildlands", " }
+    "Favorite  Console Games" : {"MDK2 (PS2)", "Tom Clancy Splinter Cell", "Jack Series (PS2)", "Metal Gear Solid V: The Phantom Pain", "Ghost Recon: Wildlands"}
     
   };
 }
@@ -111,6 +111,8 @@ https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md
 </details>
 
 [//]: <> (################################################################################)
+
+<!---
 <hr></hr>
 
 <details>
@@ -136,6 +138,7 @@ For more info, click the LinkedIn logo at the bottom right of the screen.
 </p>
 
 </details>
+-->
 
 [//]: <> (################################################################################)
 <hr></hr>

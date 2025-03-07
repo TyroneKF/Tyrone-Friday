@@ -1,5 +1,11 @@
 <div align="center" width="50">
 
+[//]: <> (################################################################################)
+
+![Text Banner ](https://github.com/user-attachments/assets/8bf894e3-c7e8-48f6-98a8-84270b0777ac)
+
+
+[//]: <> (################################################################################)
 <a href="https://github.com/rudrabarad/Gifs"> ![coder2](https://github.com/user-attachments/assets/90b14908-2fea-4cea-8567-4f2e6a8cfed1) </a>
 
 [//]: <> (<img src="https://github.com/user-attachments/assets/4ec5e5df-b472-44e9-855a-55a2705e402b?raw=true"  alt="drawing" width="100%" height="20%" /> )

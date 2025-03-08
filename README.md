@@ -19,6 +19,7 @@
    <p align="centre">  
 
    <!---
+   https://github.com/harish-sethuraman/readme-components/tree/master
    https://github.com/harish-sethuraman/readme-components/blob/master/docs/logoComponent.md
    Colours are in text or, HEX
    svgfill = logoColour
@@ -26,7 +27,7 @@
    textfill = textColour
    &animation=spin
    -->
-<a href="https://github.com/harish-sethuraman/readme-components/tree/master">
+
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">   
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=Firebase&animation=spin&svgfill=ffc0cd&fill=000000">
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin&svgfill=1a7909&fill=000000">  
@@ -46,11 +47,9 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&logo=R&animation=spin&svgfill=659b60&fill=black">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&desc=ReactNative&animation=spin&svgfill=15d8fe"> 
 
-<p>
-Due to some incompatibilities some programming languages couldnt be repressented in the format above, so here's a verbal description of some of my other programming language skills being; SQL, C, C++, Jack, JAVA and Hack assembly language, HDL (hardware description language).
-</p>
 
-</a>
+Due to some incompatibilities some programming languages couldnt be repressented in the format above, so here's a verbal description of some of my other programming language skills being; SQL, C, C++, Jack, JAVA and Hack assembly language, HDL (hardware description language).
+
 </details>
 </p>
 
@@ -93,7 +92,7 @@ class About extends Me {
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/e5c9a23b-532d-4d8e-9469-8401e6ab4b55" width="200"></td>
-    <td align="left" width="230">StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables tudents to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life.
+    <td align="left" width="230">StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life.
     <a href="https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md"> Open Project Read.md </a>
     </td>
   </tr>

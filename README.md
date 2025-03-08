@@ -1,3 +1,21 @@
+<a href="https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md">
+    
+  ### StudentPeak Project 
+
+  <table>
+  <tr >
+     <td><img src="https://github.com/user-attachments/assets/e5c9a23b-532d-4d8e-9469-8401e6ab4b55" alt="Image" width="250"/></td>
+     <td width="250" > 
+       StudentPeak is an innovative mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables 
+       students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life.
+       Click this display to open project ReadMe.MD.</td>              
+     </tr>
+   </table>
+
+   </a>
+
+
+
 <div align="center" width="50">
 
 [//]: <> (################################################################################)
@@ -87,11 +105,8 @@ class About extends Me {
 <details>
   <summary><b> Projects </b></summary>
 
-
-https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md
-
-
   
+
 </details>
 
 [//]: <> (################################################################################)

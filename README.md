@@ -87,7 +87,7 @@ class About extends Me {
 <details>
   <summary><b> Projects </b></summary>
 
-### StudentPeak Project
+### StudentPeak Group Project
 
 <table>
   <tr>

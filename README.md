@@ -1,18 +1,16 @@
 <div align="center" width="50">
 
 [//]: <> (################################################################################)
-
-
+ <!--- Text Banner Animation -->
 
 ![Text Banner 2](https://github.com/user-attachments/assets/61c4ae75-df8e-4c4a-b0f8-852811709982)
 
-
 [//]: <> (################################################################################)
+<!--- Coder Gif -->
 <a href="https://github.com/rudrabarad/Gifs"> ![coder2](https://github.com/user-attachments/assets/90b14908-2fea-4cea-8567-4f2e6a8cfed1) </a>
 
-[//]: <> (<img src="https://github.com/user-attachments/assets/4ec5e5df-b472-44e9-855a-55a2705e402b?raw=true"  alt="drawing" width="100%" height="20%" /> )
-
 [//]: <> (################################################################################)
+<!--- Skills Dropdown Option Section -->
 <hr></hr>
 
 <details>
@@ -57,8 +55,9 @@ Due to some incompatibilities some programming languages couldnt be repressented
 </p>
 
 [//]: <> (################################################################################)
-<hr></hr>
+<!--- About ME  Dropdown Option Section -->
 
+<hr></hr>
 <details>
   <summary><b> About Me </b></summary>
 
@@ -82,15 +81,13 @@ class About extends Me {
 </details>
 
 [//]: <> (################################################################################)
+<!--- Projects  Dropdown Option Section -->
+
 <hr></hr>
 
 <details>
   <summary><b> Projects </b></summary>
 
-
-
-
-    
 ### StudentPeak Project
 
 <table>
@@ -106,10 +103,9 @@ class About extends Me {
 </details>
 
 [//]: <> (################################################################################)
-
 <!---
-<hr></hr>
 
+<hr></hr>
 <details>
   
   <summary><b> Work Experience</b></summary>
@@ -136,6 +132,8 @@ For more info, click the LinkedIn logo at the bottom right of the screen.
 -->
 
 [//]: <> (################################################################################)
+<!--- Bottom Right Icons -->
+
 <hr></hr>
 
 <br>

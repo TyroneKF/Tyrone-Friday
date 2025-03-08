@@ -134,11 +134,11 @@ For more info, click the LinkedIn logo at the bottom right of the screen.
 <!--- Bottom Right Icons -->
 
 <hr></hr>
-
+<!---
 <br>
 <a href="https://www.linkedin.com/in/tyrone-f-790004151/">
   <img align="right" alt="LinkedIn" width="21px" src="Content/linkedin-big-logo.svg" />
 </a>
-
+-->
 
 

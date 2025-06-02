@@ -136,7 +136,7 @@ For more info, click the LinkedIn logo at the bottom right of the screen.
 <hr></hr>
 
 <br>
-<a href="www.linkedin.com/in/tyrone-friday">
+<a href="https://www.linkedin.com/in/tyrone-friday/">
   <img align="right" alt="LinkedIn" width="21px" src="Content/linkedin-big-logo.svg"/>
 </a>
 

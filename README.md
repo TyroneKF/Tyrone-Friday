@@ -109,13 +109,12 @@ class About extends Me {
       </td>
       <td valign="top" width="48%">
         <table>
-          <tr>
-            <td valign="top">
-              <img src="https://github.com/user-attachments/assets/cf2261cf-9c0d-42bf-843d-1569e7849bac" style="width:232px; height:217px;">
-            </td>
-            <td valign="top" width="250">
+          <tr>           
+            <td valign="top" width="550">
               <b>Gym Nutrition Tracker</b>
               <br><br>
+             <img src="https://github.com/user-attachments/assets/f50c207b-09d6-4b52-ba93-446eaa90b0f2" style="width:500px; height:317px;">
+             <br><br>
               Gym Nutrition Planner is a Java-based desktop application for creating and optimising personalised meal plans aligned with fitness goals. It uses a version-controlled data model with editable drafts and immutable history, delivering real-time macro tracking via SQL-driven analytics and visualisations, supported by structured database design.                                                                                                                                                      
               <br><br>
               <a href="https://github.com/TyroneKF/Gym_App/blob/master/README.md">Open Project Read.md</a>

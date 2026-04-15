@@ -98,7 +98,8 @@ class About extends Me {
               <img src="https://github.com/user-attachments/assets/e5c9a23b-532d-4d8e-9469-8401e6ab4b55" style="width:180px; height:400px;">
             </td>
             <td valign="top" width="250">
-              <b>Project Title</b><br><br>
+              <b>StudentPeak</b>
+              <br><br>
               StudentPeak is a mobile app designed to foster connections amongst university students, facilitating social engagement and community integration. This dynamic platform enables students to discover peers with shared interests, stay informed and discover university-affiliated events & events in the area, and support newcomers in adapting to university life.
               <br><br>
               <a href="https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md">Open Project Read.md</a>
@@ -113,10 +114,11 @@ class About extends Me {
               <img src="https://github.com/user-attachments/assets/e5c9a23b-532d-4d8e-9469-8401e6ab4b55" style="width:180px; height:400px;">
             </td>
             <td valign="top" width="250">
-              <b>Project Title</b><br><br>
+              <b>Gym Nutrition Tracker</b>
+              <br><br>
               Gym Nutrition Planner is a Java-based desktop application for creating and optimising personalised meal plans aligned with fitness goals. It uses a version-controlled data model with editable drafts and immutable history, delivering real-time macro tracking via SQL-driven analytics and visualisations, supported by structured database design.                                                                                                                                                      
               <br><br>
-              <a href="https://github.com/TyroneKF/StudentPeak-Group-Project/blob/main/README.md">Open Project Read.md</a>
+              <a href="https://github.com/TyroneKF/Gym_App/edit/ReadMe/README.md">Open Project Read.md</a>
             </td>
           </tr>
         </table>

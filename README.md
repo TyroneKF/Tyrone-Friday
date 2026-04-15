@@ -111,7 +111,7 @@ class About extends Me {
         <table>
           <tr>
             <td valign="top">
-              <img src="https://github.com/user-attachments/assets/e5c9a23b-532d-4d8e-9469-8401e6ab4b55" style="width:180px; height:400px;">
+              <img src="" style="width:180px; height:400px;">
             </td>
             <td valign="top" width="250">
               <b>Gym Nutrition Tracker</b>

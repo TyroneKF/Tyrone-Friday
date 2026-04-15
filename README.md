@@ -118,7 +118,7 @@ class About extends Me {
               <br><br>
               Gym Nutrition Planner is a Java-based desktop application for creating and optimising personalised meal plans aligned with fitness goals. It uses a version-controlled data model with editable drafts and immutable history, delivering real-time macro tracking via SQL-driven analytics and visualisations, supported by structured database design.                                                                                                                                                      
               <br><br>
-              <a href="https://github.com/TyroneKF/Gym_App/edit/ReadMe/README.md">Open Project Read.md</a>
+              <a href="https://github.com/TyroneKF/Gym_App/blob/master/README.md">Open Project Read.md</a>
             </td>
           </tr>
         </table>
